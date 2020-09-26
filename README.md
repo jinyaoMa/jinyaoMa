@@ -1,4 +1,4 @@
-### Hi there 👋
+## Jinyao Ma 🤣
 
 <!--
 **jinyaoMa/jinyaoMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :raising_hand_man: Github Stats
+
+![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&hide_title=true&theme=gruvbox)
+
+### 📊 Weekly DevTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

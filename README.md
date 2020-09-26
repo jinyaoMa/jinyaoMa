@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/-Blog-ff3300?style=for-the-badge&logo=blogger&logoColor=white&link=https://ma-jinyao.cn)](https://ma-jinyao.cn)
 [![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jinyaoMa)](https://github.com/jinyaoMa)
 [![](https://img.shields.io/badge/-Outlook-0078d4?style=for-the-badge&logo=microsoft%20outlook&logoColor=white&link=mailto://jinyao.ma@outlook.com)](mailto://jinyao.ma@outlook.com)
+[![](https://img.shields.io/badge/-Tencent-eb1923?style=for-the-badge&logo=tencent%20qq&logoColor=white&link=https://bit.ly/3kRUe14)](https://bit.ly/3kRUe14)
 
 ### :thinking: About Me
 

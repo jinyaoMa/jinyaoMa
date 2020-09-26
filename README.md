@@ -15,7 +15,7 @@
 
 - :eye: I’m currently looking for a front-end related job.
 - :seedling: I’m currently learning Weixin Miniprogram.
-- :gear: My daily Tech. Stack: **VuePress**, **Vue**, **Webpack**, **Node**.
+- :gear: My daily tech. stack: **VuePress**, **Vue**, **Webpack**, **Node**.
 - :zap: Languages: **JavaScript**, **Java**
 - :heart: Hobbies: **Novel**, **Foodie**
 

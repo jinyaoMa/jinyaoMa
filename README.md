@@ -23,7 +23,7 @@
 
 ![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&hide_title=true&theme=gruvbox)
 
-### :bar_chart: Weekly DevTime
+### :bar_chart: Weekly DevTime With VS Code
 
 <!--START_SECTION:waka-->
 ```text

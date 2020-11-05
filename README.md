@@ -22,6 +22,7 @@
 ### :raising_hand_man: Github Stats
 
 ![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&hide_title=true&theme=gruvbox)
+![jinyaoMa's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyaoMa&layout=compact&theme=gruvbox)
 
 ### :bar_chart: Weekly DevTime With VS Code
 

@@ -21,17 +21,9 @@
 
 ### :raising_hand_man: Github Stats
 
-![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&hide_title=true&theme=gruvbox)
+![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&hide_title=true&theme=gruvbox&count_private=true)
 ![jinyaoMa's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyaoMa&layout=compact&theme=gruvbox)
 
 ### :bar_chart: Weekly DevTime With VS Code
 
-<!--START_SECTION:waka-->
-```text
-Vue.js       25 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀   65.50 % 
-JavaScript   10 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.21 % 
-JSON         1 hr 59 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.17 % 
-Other        22 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.99 % 
-Bash         8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
-```
-<!--END_SECTION:waka-->
+![jinyaoMa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyaoMa&layout=compact&theme=gruvbox)

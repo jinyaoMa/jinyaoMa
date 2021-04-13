@@ -14,7 +14,6 @@
 ### :thinking: About Me
 
 - :eye: I’m currently looking for a front-end related job.
-- :seedling: I’m currently learning React.js.
 - :gear: My daily tech. stack: **VuePress**, **Vue**, **Webpack**, **Node**.
 - :zap: Languages: **JavaScript**, **Java**
 - :heart: Hobbies: **Novel**, **Foodie**

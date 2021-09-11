@@ -13,7 +13,6 @@
 
 ### :thinking: About Me
 
-- :eye: I’m currently looking for a front-end related job.
 - :gear: My daily tech. stack: **VuePress**, **Vue**, **React**, **Node**, **Go**.
 - :zap: Languages: **JavaScript**, **Java**, **Golang**
 - :heart: Hobbies: **Novel**, **Foodie**

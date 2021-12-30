@@ -2,7 +2,6 @@
 
 - :gear: My daily tech. stack: **VuePress**, **Vue**, **React**, **Node**, **Go**.
 - :zap: Languages: **JavaScript**, **Java**, **Golang**
-- :heart: Hobbies: **Novel**, **Foodie**
 
 ![jinyaoMa's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyaoMa&layout=compact&theme=merko&langs_count=8&hide=html,css,ejs,smarty)
 

@@ -9,7 +9,3 @@
 ## :raising_hand_man: Github Stats
 
 ![jinyaoMa's github stats](https://github-readme-stats.vercel.app/api/?username=jinyaoMa&show_icons=true&theme=merko&count_private=true)
-
-## :bar_chart: Weekly DevTime With VS Code
-
-![jinyaoMa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyaoMa&layout=compact&theme=merko)
